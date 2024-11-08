@@ -45,7 +45,7 @@ body, a{
 
 .section-tagline {
     color: #D73953;
-    font: var(--font-family-title);
+    font-family: var(--font-family-title);
     font-weight: var(--font-weight-bold);
     text-transform: var(--section-tagline-transform);
 }
