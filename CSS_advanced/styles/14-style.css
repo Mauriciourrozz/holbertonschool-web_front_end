@@ -24,14 +24,13 @@
     --section-title-color: var(--color-black);
 }
 
-*,
-*::before,
+*, *::before,
 *::after {
     box-sizing: border-box;
 }
 html {
-    font-size: 62.5%;
     scroll-behavior: smooth;
+    font-size: 62.5%;
 }
 
 body {
