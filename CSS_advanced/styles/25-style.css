@@ -228,8 +228,8 @@ ul.row {
 [data-section-theme="dark"] {
     --text-color: var(--color-white);
     --section-title-color: var(--color-white);
+    --buton-color: var(--color-white);
     background-color: var(--color-black);
-    --buton-color: var(--color-white)
 }
 
 .card-services .card-title {
