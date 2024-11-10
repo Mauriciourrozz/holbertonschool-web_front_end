@@ -126,7 +126,7 @@ a:active {
 }
 
 .navbar-menu {
-    color: var(--nav-item-link-hover);
+    float: right;
 }
 
 .nav {
