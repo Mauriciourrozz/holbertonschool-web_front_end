@@ -280,11 +280,11 @@ ul.row {
 }
 
 .section-hero {
-    background-size: 90rem cover;
+    background-size: 90rem auto;
 }
 
 .section-hero .section-title {
-    margin-block-end: 5rem;
+    margin-bottom: 5rem;
 }
 
 .section-hero.section-inner {
